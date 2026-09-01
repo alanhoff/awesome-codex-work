@@ -429,9 +429,9 @@ items:
     category: developer and agent frameworks
     audience: Codex users running long or interruption-prone coding jobs
     work_problem: Preserve explicit work dependencies, ownership boundaries, and recoverable progress across a long Codex job.
-    codex_relationship: Independent per-user Codex skill with a bundled Python 3.11+ state owner.
+    codex_relationship: Independent per-user Codex skill with a bundled Python 3.11+ runtime that manages revisioned local state.
     output: Revisioned local workflow state with node status, requirements, dependencies, write scopes, acceptance criteria, checks, and reconciliation records.
-    review_boundary: Human reviews the graph, write scopes, check commands, reconciliation records, and resulting artifacts before accepting completion.
+    review_boundary: Review the graph, write scopes, check commands, reconciliation records, and resulting artifacts before accepting completion.
     limits: Requires Codex and Python 3.11+; state is local; the skill does not invoke or inspect Git; authored checks are evidence rather than proof; specialist agents are optional.
     submitter_affiliation: Submitted by the project maintainer, Alan Hoffmeister.
     status: sourced
