@@ -66,6 +66,7 @@ Framework entries belong here when they help someone build Codex-adjacent tools,
 | [openai/openai-agents-js](https://github.com/openai/openai-agents-js) | Build JavaScript or TypeScript agents | Review releases, examples, and security posture before adoption |
 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Build Python agents | Review releases, examples, and security posture before adoption |
 | [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | Find examples and implementation patterns | Examples are starting points, not production guarantees |
+| [alanhoff/agent-coordinator](https://github.com/alanhoff/agent-coordinator) | Keep long Codex jobs in a bounded work graph with explicit dependencies, revisioned local state, declared write scopes, and authored checks | Review the graph, scopes, check commands, and any uncertain-operation reconciliation; authored checks are evidence, not proof |
 
 ## Suggest A Tool
 

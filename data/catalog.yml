@@ -421,3 +421,18 @@ items:
     submitter_affiliation: Maintained by CodexWork from public official source.
     status: sourced
     last_checked: "2026-07-07"
+  - id: agent-coordinator
+    type: tool
+    name: alanhoff/agent-coordinator
+    url: https://github.com/alanhoff/agent-coordinator
+    source_url: https://github.com/alanhoff/agent-coordinator/blob/fb3d64688a9e1b7c02a114a14faac1219ec10f51/README.md
+    category: developer and agent frameworks
+    audience: Codex users running long or interruption-prone coding jobs
+    work_problem: Preserve explicit work dependencies, ownership boundaries, and recoverable progress across a long Codex job.
+    codex_relationship: Independent per-user Codex skill with a bundled Python 3.11+ state owner.
+    output: Revisioned local workflow state with node status, requirements, dependencies, write scopes, acceptance criteria, checks, and reconciliation records.
+    review_boundary: Human reviews the graph, write scopes, check commands, reconciliation records, and resulting artifacts before accepting completion.
+    limits: Requires Codex and Python 3.11+; state is local; the skill does not invoke or inspect Git; authored checks are evidence rather than proof; specialist agents are optional.
+    submitter_affiliation: Submitted by the project maintainer, Alan Hoffmeister.
+    status: sourced
+    last_checked: "2026-09-01"

@@ -44,6 +44,7 @@ When a source is volatile, include a retrieval date or `last_checked` value in `
 | [openai/openai-agents-js](https://github.com/openai/openai-agents-js) | JavaScript/TypeScript agent framework | Official GitHub repository |
 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python agent framework | Official GitHub repository |
 | [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | Example implementation patterns | Official GitHub repository |
+| [alanhoff/agent-coordinator at fb3d646](https://github.com/alanhoff/agent-coordinator/blob/fb3d64688a9e1b7c02a114a14faac1219ec10f51/README.md) | Per-user Codex packaging, Python requirement, revisioned state, write scopes, checks, reconciliation, and Git boundary | Project-owned immutable source; submitted by the maintainer; recheck later revisions |
 | [Model Context Protocol docs](https://modelcontextprotocol.io/docs/getting-started/intro) | MCP concept and terminology | Official MCP docs |
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | GitHub MCP server listing | Official GitHub repository |
 | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | Browser automation MCP listing | Official Microsoft repository |
